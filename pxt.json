@@ -1,0 +1,19 @@
+{
+    "name": "PROJECT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "powerbrick": "github:kittenbot/pxt-powerbrick#v0.2.5",
+        "Smart Gate": "workspace:0e16523b-ebc1-4782-0a40-d9a4b987e7d1"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
